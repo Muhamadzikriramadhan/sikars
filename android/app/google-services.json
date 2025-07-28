@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344552441689",
+    "project_id": "sikars-f6e5b",
+    "storage_bucket": "sikars-f6e5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344552441689:android:85fe81ec29826576ea2e48",
+        "android_client_info": {
+          "package_name": "id.co.androdevjik.sikars"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2XY0bouhMV9ysCd58lFkTYsN4Key8HHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
